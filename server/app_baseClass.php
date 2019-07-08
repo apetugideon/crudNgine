@@ -9,7 +9,7 @@ class app_baseClass extends ConnectionsHandler {
     use DataHandler;
     use Utilities;
 
-    public  $tableName   	 = ""; //TO DO :
+    public  $tableName   	 = ""; //TO DO ://
     public  $fieldSel    	 = "";
     public  $limitOffset 	 = "";
     public  $returnDebug 	 = "";
