@@ -78,6 +78,7 @@ class app_baseClass extends ConnectionsHandler {
         ->execute_delete();*/
 
         //TESTING 
+        //NEW THING
         
         $cr8TabObj = new QueryHandler("users_men", $this->conn);
         $cr8TabObj->create_update_table()
