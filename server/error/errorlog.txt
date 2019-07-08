@@ -1,0 +1,554 @@
+Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'description' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'description' in 'field list' 
+
+ Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'modules' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'modules' in 'field list' 
+
+ Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'modules' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'modules' in 'field list' 
+
+ Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_module' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_module' in 'field list' 
+
+ Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'action_datetime' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'action_datetime' in 'field list' 
+
+ Error on line 293 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'action_datetime' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'action_datetime' in 'field list' 
+
+ Error on line 38 in SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' : 
+ SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' 
+
+ Error on line 38 in SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' : 
+ SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' 
+
+ Error on line 38 in SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' : 
+ SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost' 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  OFFSET  90  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'moreso'  AND task_type.is_status =  'Y'  AND task_type.is_st' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '2'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '2'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '2'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '2'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'Task Enhancement ooo'  AND task_type.is_status =  'Y'  AND t' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'Task Enhancement ooo'  AND task_type.is_status =  'Y'  AND t' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'Task Enhancement ooo'  AND task_type.is_status =  'Y'  AND t' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.names =  'Task Enhancement ooo'  AND task_type.is_status =  'Y'  AND t' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.names =  ?  task_type.names =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'task_type.task_type_id =  '1'  AND task_type.is_status =  'Y'  AND task_type.is_' at line 1
+ SELECT task_type.task_type_id, task_type.names, task_type.description, task_type.date_created, task_type.date_modified, task_type.is_status, task_type.is_delete FROM task_type   WHERE   (  task_type.task_type_id =  ?  task_type.task_type_id =  ?  AND task_type.is_status =  ?  AND task_type.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) 
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) LIMIT 10  : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) LIMIT 10  
+
+ Error on line 619 in SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) : 
+ SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'states_details.states_details_id =  '1'  AND states_details.is_status =  'Y'  AN' at line 1
+ SELECT states_details.states_details_id, country_details.country_details_id, country_details.names AS country_details_id_desc, states_details.names, states_details.description, states_details.date_created, states_details.date_modified, states_details.is_status, states_details.is_delete FROM states_details  LEFT JOIN  country_details ON states_details.country_details_id = country_details.country_details_id   WHERE   (  states_details.states_details_id =  ?  states_details.states_details_id =  ?  AND states_details.is_status =  ?  AND states_details.is_status =  ? ) 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ Error on line 299 in SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' : 
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_created_fmt' in 'field list' 
+
+ 
